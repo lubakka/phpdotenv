@@ -6,7 +6,7 @@ use Dotenv\Exception\InvalidFileException;
 use Dotenv\Exception\InvalidPathException;
 
 /**
- * This is the loaded class.
+ * This is the loader class.
  *
  * It's responsible for loading variables by reading a file from disk and:
  * - stripping comments beginning with a `#`,
